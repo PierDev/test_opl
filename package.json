@@ -1,0 +1,22 @@
+{
+  "name": "test_opl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@oasisprotocol/sapphire-contracts": "^0.2.3",
+    "@oasisprotocol/sapphire-hardhat": "^2.16.1",
+    "@openzeppelin/contracts": "^4.9.2",
+    "hardhat": "^2.17.0",
+    "hardhat-deploy": "^0.11.34"
+  },
+  "dependencies": {
+    "canonicalize": "^2.0.0"
+  }
+}
